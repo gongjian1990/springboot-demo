@@ -1,4 +1,4 @@
-package com.gj.config;
+package com.gj.springboot.config;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;
